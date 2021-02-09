@@ -1,0 +1,60 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px ridge black;
+  width: 350px;
+  height: 300px; 
+  margin-top: 10px;
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading{
+  margin-top: 30px;
+  width: 100%;
+  font-size: 30px;
+  border-radius: 8px;
+}
+#paragraph{
+  margin-top: 25px;
+  font-size: 23px;
+  font-weight: 700;
+}
+.predict{
+  margin-top: 12px;
+  font-size: 25px;
+  font-style: italic;
+  color: blue;
+}
+.l2{
+  font-size: 28px;
+  color: crimson;
+  background-color: darkgrey;
+}
+.b1{
+  width: 200px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 22px;
+  font-weight: bolder;
+  border-radius: 14px;
+}
